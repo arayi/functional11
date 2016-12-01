@@ -1,0 +1,22 @@
+{
+  "name": "functional11",
+  "version": "1.0.0",
+  "description": "Functional programming exercises - LG week 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arayi/functional11.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arayi/functional11/issues"
+  },
+  "homepage": "https://github.com/arayi/functional11#readme",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
+}
